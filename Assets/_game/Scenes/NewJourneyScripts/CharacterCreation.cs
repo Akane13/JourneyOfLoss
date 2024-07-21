@@ -10,7 +10,8 @@ public class CharacterCreation : MonoBehaviour
     public Button ButtonMale;
     public Button ButtonFemale;
     public Button ConfirmButton;
-
+    public Text PlayerNameText;
+    public Image PlayerAvatarImage;
     private string selectedGender;
 
     void Start()
@@ -37,6 +38,16 @@ public class CharacterCreation : MonoBehaviour
         ButtonMale.onClick.AddListener(() => OnGenderButtonClick("M"));
         ButtonFemale.onClick.AddListener(() => OnGenderButtonClick("F"));
         ConfirmButton.onClick.AddListener(OnConfirmButtonClick);
+    
+        // Check if UI components for character display are assigned
+        if (PlayerNameText == null || PlayerAvatarImage == null)
+        {
+            Debug.LogError("UI components for character display are not assigned in the Inspector.");
+            return;
+        }
+
+        // Load and display character data if it exists
+        LoadCharacterData();
     }
 
     private void OnGenderButtonClick(string gender)
@@ -75,5 +86,32 @@ public class CharacterCreation : MonoBehaviour
         // Save character data to pass to the next scene
         PlayerPrefs.SetString("PlayerName", InputCharacterName.text);
         PlayerPrefs.SetString("PlayerGender", selectedGender);
+    
+        // Load and display character data
+        LoadCharacterData();
+    }
+    private void LoadCharacterData()
+    {
+        // Load character data from PlayerPrefs
+        string playerName = PlayerPrefs.GetString("PlayerName");
+        string playerGender = PlayerPrefs.GetString("PlayerGender");
+
+        if (string.IsNullOrEmpty(playerName) || string.IsNullOrEmpty(playerGender))
+        {
+            Debug.LogWarning("No character data found.");
+            return;
+        }
+
+        // Update UI with player data
+        PlayerNameText.text = playerName;
+
+        if (playerGender == "M")
+        {
+            PlayerAvatarImage.sprite = Resources.Load<Sprite>("male");
+        }
+        else if (playerGender == "F")
+        {
+            PlayerAvatarImage.sprite = Resources.Load<Sprite>("female");
+        }
     }
 }

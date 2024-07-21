@@ -17,10 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_game/Scenes/Settings.unity
     guid: b123fda505613d340a6d433a3c207d59
-  - enabled: 1
-    path: Assets/_game/Scenes/CharacterConfirm.unity
+  - enabled: 0
+    path: Assets/_game/Scenes/drop/CharacterConfirm.unity
     guid: 0c8d8e1990373a549bcd6dd142b231db
   - enabled: 1
     path: Assets/_game/Scenes/Story1.unity
     guid: 91e352a06fd687c45bef11be34022aab
+  - enabled: 1
+    path: Assets/_game/Scenes/Jigsaw/Scene_JigsawGame.unity
+    guid: 756323005715c1b42a3939a0a73baa8f
+  - enabled: 1
+    path: Assets/_game/Scenes/DifferentLv1.unity
+    guid: 67ba9a48d0d5d8f4c8788c1e62ec3159
   m_configObjects: {}
