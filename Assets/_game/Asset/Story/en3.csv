@@ -1,0 +1,35 @@
+ID,Avatar,Character,Text
+0,mc,(Username),Good morning George. You've worked hard.
+1,mc,(Username),I brought little Emily here. I wonder how our patient is doing now?
+2,George,George Ruggs,Hey good morning my dear and lovely Emily.
+3,Emily,Emily,(beep) (happy expression)
+4,George,George Ruggs,I've been observing Andrew's condition and there have been some changes recently.
+5,mc,(Username),Good job George.
+6,mc,(Username),Can you tell me some details?
+7,George,George Ruggs,Ah you know his condition has always been quite uncertain.
+8,George,George Ruggs,Sometimes it's good sometimes it's not so good. Just like getting up every morning you're always unsure what kind of day it will be.
+9,Emily,Emily,Emily suspects you're alluding to your own condition.
+10,George,George Ruggs,(Pause) Ehe.
+11,Emily,Emily,...
+12,George,George Ruggs,But to be honest Andrew's condition is indeed worrying.
+13,George,George Ruggs,I'll do my best to observe.
+14,mc,(Username),Haha otherwise you should work harder so we don't have to worry.
+15,mc,(Username),Anyway we have to go see him as soon as possible and find out the details.
+16,Emily,Emily,Emily agree.
+17,Emily,Emily,You two can evaluate Mr. Andrew's condition by talking to him and running some tests.
+18,Emily,Emily,At the same time Emily can analyze the monitoring data to see if there are any unusual patterns or trends.
+19,mc,(Username),Ok maybe we can find some solutions based on the conversation.
+20,George,George Ruggs,It sounds like a perfect solution.
+21,George,George Ruggs,But I must remind you that Andrew's situation may not be as optimistic as you two think.
+22,George,George Ruggs,"Like I said it's very uncertain, sometimes good and sometimes bad."
+23,George,George Ruggs,Maybe we were chatting well in the last second and we have to introduce ourselves again in the next second.
+24,mc,(Username),...
+25,Emily,Emily,Based on what you said before even in a joking tone it's not such a serious situation.
+26,George,George Ruggs,My bad Emily.
+27,mc,(Username),Okay you two stop making trouble.
+28,mc,(Username),We should go to Andrew's ward.
+29,George,George Ruggs,Yes dear. Let's go to the front desk to get the medical records and room keys.
+30,George,George Ruggs,In order to prevent Andrew from disappearing suddenly we decided to lock the door and windows of the ward.
+31,Emily,Emily,Correction: Humans cannot disappear out of thin air adn it is recommended to change to missing.
+32,George,George Ruggs,... Emily you are getting less and less cute.
+33,George,George Ruggs,Anyway let's go to the front desk to get the medical records and room keys.

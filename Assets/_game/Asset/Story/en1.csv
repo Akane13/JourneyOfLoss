@@ -1,4 +1,4 @@
-﻿Sign,ID,Avatar,Character,Emotion,Text,GoTo,Effect,Target
+Sign,ID,Avatar,Character,Emotion,Text,GoTo,Effect,Target
 #,0,mc,(Username),neutral,"Good morning, George. You've worked hard.",1,,
 #,1,mc,(Username),neutral,I brought little Emily here. I wonder how our patient is doing now?,2,,
 #,2,George,George Ruggs,smile,"Hey, good morning, my dear (username), and lovely Emily.",3,,
@@ -33,4 +33,3 @@
 #,31,Emily,Emily,neutral,"Correction: Humans cannot disappear out of thin air, it is recommended to change to missing.",32,,
 #,32,George,George Ruggs,neutral,"... Emily, you are getting less and less cute.",33,,
 #,33,George,George Ruggs,neutral,"Anyway, let's go to the front desk to get the medical records and room keys.",34,,
-END,34,,,,,,,

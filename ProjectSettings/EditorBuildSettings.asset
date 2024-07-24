@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_game/Scenes/DifferentLv1.unity
     guid: 67ba9a48d0d5d8f4c8788c1e62ec3159
+  - enabled: 1
+    path: Assets/_game/Scenes/ContinueJourney.unity
+    guid: 10afe1ec711c1974c8e7638f57523e4d
+  - enabled: 1
+    path: Assets/_game/Scenes/End1.unity
+    guid: e5f3266c7b364d140a4e698a00349bea
   m_configObjects: {}
