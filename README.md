@@ -25,6 +25,7 @@ Exiting the Game:
 1.	To ensure all your progress is saved, always exit the game using the 'Exit' option from the main menu.
 
  
+
 Gameplay:
 "Journey of Loss" offers a rich and educational experience:
 1.	Basic Controls: Use the arrow keys or WASD keys to move up, down, left, and right. Hold the Shift key to sprint. Use the mouse to navigate through menus and select options. Press the ESC key to open the pause menu during the game.
