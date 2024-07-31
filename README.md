@@ -11,30 +11,30 @@ To install "Journey of Loss," please follow these steps:
 
 Getting Started:
 When you launch "Journey of Loss," you will immediately encounter a main menu, you'll be greeted by the main menu, where you can navigate through various options:
-•	Start New Journey: Choose this to begin a new game, starting fresh with the narrative and challenges.
-•	Continue Journey: Select this to resume your progress from a previously saved game.
-•	Mini Game: Access a variety of mini-games designed to challenge your memory.
-•	Settings: Adjust game settings such as audio, controls, and display to tailor the gameplay experience to your preferences.
-•	Exit: Safely exit the game, ensuring all your progress is saved.
+1.	Start New Journey: Choose this to begin a new game, starting fresh with the narrative and challenges.
+2.	Continue Journey: Select this to resume your progress from a previously saved game.
+3.	Mini Game: Access a variety of mini-games designed to challenge your memory.
+4.	Settings: Adjust game settings such as audio, controls, and display to tailor the gameplay experience to your preferences.
+5.	Exit: Safely exit the game, ensuring all your progress is saved.
 
 Menu Navigation Tips:
-•	Navigating the Menu: Use your mouse to navigate between options.
-•	Selecting Options: Click with your mouse.
+1.	Navigating the Menu: Use your mouse to navigate between options.
+2.	Selecting Options: Click with your mouse.
 
 Exiting the Game:
-•	To ensure all your progress is saved, always exit the game using the 'Exit' option from the main menu.
+1.	To ensure all your progress is saved, always exit the game using the 'Exit' option from the main menu.
 
  
 Gameplay:
 "Journey of Loss" offers a rich and educational experience:
-•	Basic Controls: Use the arrow keys or WASD keys to move up, down, left, and right. Hold the Shift key to sprint. Use the mouse to navigate through menus and select options. Press the ESC key to open the pause menu during the game.
-•	Game Objectives: Achieve progress by solving puzzles, making narrative decisions, and exploring the story of Andrew Alexander, the central character with "Memory Fade Syndrome.
+1.	Basic Controls: Use the arrow keys or WASD keys to move up, down, left, and right. Hold the Shift key to sprint. Use the mouse to navigate through menus and select options. Press the ESC key to open the pause menu during the game.
+2.	Game Objectives: Achieve progress by solving puzzles, making narrative decisions, and exploring the story of Andrew Alexander, the central character with "Memory Fade Syndrome.
 
 Puzzle-Solving Tips:
-•	Pay attention to clues provided in the narrative.
-•	Experiment with different approaches if you get stuck.
-•	Use the 'Hints' option if available for additional guidance.
+1.	Pay attention to clues provided in the narrative.
+2.	Experiment with different approaches if you get stuck.
+3.	Use the 'Hints' option if available for additional guidance.
 
 Educational Impact:
-•	Learn about the cognitive challenges faced by individuals with memory-related disorders.
-•	Experience an emotional narrative that fosters empathy and understanding.
+1.	Learn about the cognitive challenges faced by individuals with memory-related disorders.
+2.	Experience an emotional narrative that fosters empathy and understanding.
