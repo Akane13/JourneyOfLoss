@@ -1,1 +1,1 @@
-{"name":"Km","gender":"F","playerX":-3.760000228881836,"playerY":-1.350000023841858,"playerZ":0.0,"dataSaveTime":"2024/07/24 09:40:01"}
+{"name":"Beniko","gender":"F","playerX":-1.6400002241134644,"playerY":0.009999170899391175,"playerZ":0.0,"dataSaveTime":"2024/07/29 11:34:01"}
